@@ -1,0 +1,17 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "ARImage-1.arreferenceimage"
+    },
+    {
+      "filename" : "ARImage.arreferenceimage"
+    },
+    {
+      "filename" : "Elephant-PostCard.arreferenceimage"
+    }
+  ]
+}

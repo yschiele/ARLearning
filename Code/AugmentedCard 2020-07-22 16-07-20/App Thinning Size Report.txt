@@ -1,0 +1,50 @@
+
+App Thinning Size Report for All Variants of AugmentedCard
+
+Variant: AugmentedCard-1E3B8A3F-ECF9-485E-9F42-1A20BED85C56.ipa
+Supported variant descriptors: [device: iPad8,6, os-version: 12.0], [device: iPad8,7, os-version: 12.0], [device: iPad7,4, os-version: 12.0], [device: iPad8,1, os-version: 12.0], [device: iPhone9,3, os-version: 12.0], [device: iPhone9,4, os-version: 12.0], [device: iPad8,3, os-version: 12.0], [device: iPhone11,8, os-version: 12.0], [device: iPad7,1, os-version: 12.0], [device: iPad8,8, os-version: 12.0], [device: iPhone9,1, os-version: 12.0], [device: iPhone11,4, os-version: 12.0], [device: iPad8,2, os-version: 12.0], [device: iPad6,4, os-version: 12.0], [device: iPhone11,6, os-version: 12.0], [device: iPad7,2, os-version: 12.0], [device: iPhone10,2, os-version: 12.0], [device: iPhone10,5, os-version: 12.0], [device: iPad6,3, os-version: 12.0], [device: iPhone10,3, os-version: 12.0], [device: iPhone10,6, os-version: 12.0], [device: iPhone9,2, os-version: 12.0], [device: iPhone11,2, os-version: 12.0], [device: iPad8,4, os-version: 12.0], [device: iPhone10,1, os-version: 12.0], [device: iPad8,5, os-version: 12.0], [device: iPhone10,4, os-version: 12.0], and [device: iPad7,3, os-version: 12.0]
+App + On Demand Resources size: 51,6 MB compressed, 72,2 MB uncompressed
+App size: 51,6 MB compressed, 72,2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: AugmentedCard-44D7F023-346B-40C9-AF0E-B67FAFFDCB4C.ipa
+Supported variant descriptors: [device: iPhone8,1, os-version: 12.0], [device: iPad7,6, os-version: 12.0], [device: iPhone8,4, os-version: 12.0], [device: iPad4,8, os-version: 12.0], [device: iPad4,1, os-version: 12.0], [device: iPad4,6, os-version: 12.0], [device: iPad6,12, os-version: 12.0], [device: iPod7,1, os-version: 12.0], [device: iPad4,4, os-version: 12.0], [device: iPad6,8, os-version: 12.0], [device: iPad7,5, os-version: 12.0], [device: iPhone7,1, os-version: 12.0], [device: iPad5,2, os-version: 12.0], [device: iPhone7,2, os-version: 12.0], [device: iPad6,7, os-version: 12.0], [device: iPhone6,2, os-version: 12.0], [device: iPad4,2, os-version: 12.0], [device: iPad4,7, os-version: 12.0], [device: iPad5,3, os-version: 12.0], [device: iPad4,5, os-version: 12.0], [device: iPad5,4, os-version: 12.0], [device: iPhone6,1, os-version: 12.0], [device: iPad5,1, os-version: 12.0], [device: iPad4,9, os-version: 12.0], [device: iPhone8,2, os-version: 12.0], [device: iPad4,3, os-version: 12.0], and [device: iPad6,11, os-version: 12.0]
+App + On Demand Resources size: 51,6 MB compressed, 72,2 MB uncompressed
+App size: 51,6 MB compressed, 72,2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: AugmentedCard-50E7E6E5-05B1-4089-B0CF-18EE0ED0C879.ipa
+Supported variant descriptors: [device: iPad6,12, os-version: 13.0], [device: iPad5,4, os-version: 13.0], [device: iPad6,11, os-version: 13.0], [device: iPad7,12, os-version: 13.0], [device: iPad6,7, os-version: 13.0], [device: iPad5,3, os-version: 13.0], [device: iPod9,1, os-version: 13.0], [device: iPad6,8, os-version: 13.0], [device: iPad7,6, os-version: 13.0], [device: iPhone8,2, os-version: 13.0], [device: iPad7,11, os-version: 13.0], [device: iPhone8,1, os-version: 13.0], [device: iPad7,5, os-version: 13.0], [device: iPhone8,4, os-version: 13.0], [device: iPad5,1, os-version: 13.0], and [device: iPad5,2, os-version: 13.0]
+App + On Demand Resources size: 48,8 MB compressed, 64,4 MB uncompressed
+App size: 48,8 MB compressed, 64,4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: AugmentedCard-60FF1332-1952-4C46-8616-8FAB53CD59C4.ipa
+Supported variant descriptors: [device: iPhone8,2, os-version: 12.2], [device: iPod7,1, os-version: 12.2], [device: iPad7,5, os-version: 12.2], [device: iPad4,6, os-version: 12.2], [device: iPhone7,1, os-version: 12.2], [device: iPad4,5, os-version: 12.2], [device: iPhone8,4, os-version: 12.2], [device: iPhone6,1, os-version: 12.2], [device: iPad4,4, os-version: 12.2], [device: iPad5,1, os-version: 12.2], [device: iPad6,11, os-version: 12.2], [device: iPad4,8, os-version: 12.2], [device: iPad6,7, os-version: 12.2], [device: iPad6,8, os-version: 12.2], [device: iPad5,2, os-version: 12.2], [device: iPad5,4, os-version: 12.2], [device: iPad7,6, os-version: 12.2], [device: iPad4,1, os-version: 12.2], [device: iPod9,1, os-version: 12.2], [device: iPad5,3, os-version: 12.2], [device: iPad4,3, os-version: 12.2], [device: iPad4,2, os-version: 12.2], [device: iPad4,7, os-version: 12.2], [device: iPhone8,1, os-version: 12.2], [device: iPad4,9, os-version: 12.2], [device: iPhone7,2, os-version: 12.2], [device: iPad6,12, os-version: 12.2], and [device: iPhone6,2, os-version: 12.2]
+App + On Demand Resources size: 49,2 MB compressed, 64,8 MB uncompressed
+App size: 49,2 MB compressed, 64,8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: AugmentedCard-BFE40387-27ED-4926-843B-D46AFDA93986.ipa
+Supported variant descriptors: [device: iPhone12,8, os-version: 13.0], [device: iPhone9,4, os-version: 13.0], [device: iPad7,2, os-version: 13.0], [device: iPad8,7, os-version: 13.0], [device: iPhone10,5, os-version: 13.0], [device: iPad11,1, os-version: 13.0], [device: iPhone12,1, os-version: 13.0], [device: iPad8,5, os-version: 13.0], [device: iPad11,2, os-version: 13.0], [device: iPad8,9, os-version: 13.0], [device: iPhone11,6, os-version: 13.0], [device: iPad11,4, os-version: 13.0], [device: iPhone12,5, os-version: 13.0], [device: iPhone10,2, os-version: 13.0], [device: iPhone12,3, os-version: 13.0], [device: iPad7,1, os-version: 13.0], [device: iPad8,6, os-version: 13.0], [device: iPhone10,1, os-version: 13.0], [device: iPhone10,3, os-version: 13.0], [device: iPhone9,1, os-version: 13.0], [device: iPad6,4, os-version: 13.0], [device: iPhone10,6, os-version: 13.0], [device: iPad8,10, os-version: 13.0], [device: iPad7,3, os-version: 13.0], [device: iPhone11,4, os-version: 13.0], [device: iPad8,3, os-version: 13.0], [device: iPhone9,3, os-version: 13.0], [device: iPhone9,2, os-version: 13.0], [device: iPad7,4, os-version: 13.0], [device: iPad8,4, os-version: 13.0], [device: iPad6,3, os-version: 13.0], [device: iPad8,1, os-version: 13.0], [device: iPad8,11, os-version: 13.0], [device: iPhone11,8, os-version: 13.0], [device: iPad8,2, os-version: 13.0], [device: iPad11,3, os-version: 13.0], [device: iPad8,12, os-version: 13.0], [device: iPad8,8, os-version: 13.0], [device: iPhone10,4, os-version: 13.0], and [device: iPhone11,2, os-version: 13.0]
+App + On Demand Resources size: 48,8 MB compressed, 64,4 MB uncompressed
+App size: 48,8 MB compressed, 64,4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: AugmentedCard-FF72022F-7695-4C6E-9E70-1F3898DB4C9D.ipa
+Supported variant descriptors: [device: iPad8,6, os-version: 12.2], [device: iPhone10,2, os-version: 12.2], [device: iPhone11,4, os-version: 12.2], [device: iPad11,1, os-version: 12.2], [device: iPad8,1, os-version: 12.2], [device: iPad8,5, os-version: 12.2], [device: iPad8,8, os-version: 12.2], [device: iPhone11,8, os-version: 12.2], [device: iPad8,3, os-version: 12.2], [device: iPhone10,5, os-version: 12.2], [device: iPad6,4, os-version: 12.2], [device: iPhone9,2, os-version: 12.2], [device: iPhone9,1, os-version: 12.2], [device: iPad8,2, os-version: 12.2], [device: iPad6,3, os-version: 12.2], [device: iPad11,4, os-version: 12.2], [device: iPad7,1, os-version: 12.2], [device: iPhone10,4, os-version: 12.2], [device: iPhone11,6, os-version: 12.2], [device: iPad11,3, os-version: 12.2], [device: iPad8,4, os-version: 12.2], [device: iPad11,2, os-version: 12.2], [device: iPad8,7, os-version: 12.2], [device: iPhone10,1, os-version: 12.2], [device: iPhone9,4, os-version: 12.2], [device: iPhone11,2, os-version: 12.2], [device: iPad7,3, os-version: 12.2], [device: iPad7,2, os-version: 12.2], [device: iPad7,4, os-version: 12.2], [device: iPhone10,6, os-version: 12.2], [device: iPhone9,3, os-version: 12.2], and [device: iPhone10,3, os-version: 12.2]
+App + On Demand Resources size: 49,2 MB compressed, 64,8 MB uncompressed
+App size: 49,2 MB compressed, 64,8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: AugmentedCard.ipa
+Supported variant descriptors: Universal
+App + On Demand Resources size: 52,2 MB compressed, 72,7 MB uncompressed
+App size: 52,2 MB compressed, 72,7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
