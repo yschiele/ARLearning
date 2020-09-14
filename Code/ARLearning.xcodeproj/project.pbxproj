@@ -120,7 +120,7 @@
 		ED0C33E7219967CC009173F3 = {
 			isa = PBXGroup;
 			children = (
-				ED0C33F2219967CC009173F3 /* ARLearning */,
+				ED0C33F2219967CC009173F3 /* AugmentedCard */,
 				ED0C33F1219967CC009173F3 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -133,7 +133,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		ED0C33F2219967CC009173F3 /* ARLearning */ = {
+		ED0C33F2219967CC009173F3 /* AugmentedCard */ = {
 			isa = PBXGroup;
 			children = (
 				ED0C33F3219967CC009173F3 /* AppDelegate.swift */,
@@ -143,7 +143,7 @@
 				ED0C33F7219967CC009173F3 /* ViewController.swift */,
 				EDD6DEDD21D408EA00BEE2AA /* Resources */,
 			);
-			path = ARLearning;
+			path = AugmentedCard;
 			sourceTree = "<group>";
 		};
 		EDD6DEDD21D408EA00BEE2AA /* Resources */ = {
